@@ -1,0 +1,2737 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "1228b56ba6bb8cbe74e77fad3ae96f36",
+				"Address" : "l94n5Mai_Main.png"
+			},
+			"Back" : {
+				"Hash" : "e93e939c1f8316abdaefb93ecc011435",
+				"Address" : "l94n5Mai_Back.png"
+			},
+			"Climb" : {
+				"Hash" : "c5bd111c16f5feb8d7c74f39263140b3",
+				"Address" : "l94n5Mai_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "はちはち",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "99f5a27c723ddf4367d5f4652f9e3ff2",
+				"Address" : "UVLYoUMQb_Main.png"
+			},
+			"Back" : {
+				"Hash" : "b640f676fd83e7db5273efb6e98b6d79",
+				"Address" : "UVLYoUMQb_Back.png"
+			},
+			"Climb" : {
+				"Hash" : "716400b6b2e028740bfbd0d3ef755249",
+				"Address" : "UVLYoUMQb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "色付きはちはち",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "babe70187bf064ddbe3c77501086d4a4",
+				"Address" : "Ivnf5Obsc_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "7b33dc4eee32fc0b7d14c31830a62470",
+				"Address" : "Ivnf5Obsc_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "自作ハット100個達成記念",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "c2100a7dfd028cecb35d920f5b514b24",
+				"Address" : "uSzTVZ1pc_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "caf64caf4dd07c2387fc905626c1acc9",
+				"Address" : "uSzTVZ1pc_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "双葉アホ毛",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "28fc1872cff69137ca6562e74ae73d41",
+				"Address" : "Y3o9D3GV_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "4a08ce41cc89f6702482ac652f3abb7b",
+				"Address" : "Y3o9D3GV_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ちょっと武器庫で借りてきた",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "ff87fe5eab3e7bfa51a8957033e1495a",
+				"Address" : "VfFlwoYI_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "36db70f6e51c8acb20450d72618c82c1",
+				"Address" : "VfFlwoYI_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "引っこ抜かれてもいない",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "0dda305439dec5510cf9651e18fbd0cb",
+				"Address" : "Gbo8_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "矢印",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "0bc4e75510abe2a2711f3253698aab4c",
+				"Address" : "dMupph_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ASMR",
+			"Author" : "",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "eb2a761c57b6460b067d6492e8122c73",
+				"Address" : "EV6YME9L_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "79717abcee6148ad52e7a9a2dc0f9e91",
+				"Address" : "EV6YME9L_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "名実ともに最強",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "efd0d7df7511b6150e0223d2a26123c8",
+				"Address" : "5Uza9c_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "3d51f86eeff05dd6b6608567ab957b69",
+				"Address" : "5Uza9c_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ボム兵",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "f01721795e3d997cdc97975ffc68dbe6",
+				"Address" : "X3nQhuAB_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "引き絞って",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "500bc4252d1f360267490adc0cde9f92",
+				"Address" : "numG9B9s_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "パンはおいしい",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "3776939b42fbc23ec190904b1e93a4c0",
+				"Address" : "3vgz5WyF_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "キャンドルライター",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Back" : {
+				"Hash" : "dfdd2f20bd5aef218f0a70e783d885fb",
+				"Address" : "pwpc9c_Back.png"
+			},
+			"Climb" : {
+				"Hash" : "d599a80dee9540a2b4e0ba734e549f4f",
+				"Address" : "pwpc9c_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "マント",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "55207a8372c259c9916c08fcb1a76977",
+				"Address" : "M6hyjSUL_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "クルーセット",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "929664d0b664cd7771b2ff2e5bb0bd00",
+				"Address" : "j9KiWT9kc_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "db844353b2a09f097958d6fd45a06e53",
+				"Address" : "j9KiWT9kc_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ドッキングにぼし",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "34e8015df657f8fae14828c664de4a94",
+				"Address" : "BLWXJ8Quc_Main.png"
+			},
+			"Back" : {
+				"Hash" : "45d82512e0ba8860fe79bb46643d501b",
+				"Address" : "BLWXJ8Quc_Back.png"
+			},
+			"Climb" : {
+				"Hash" : "e1d9a193a1c9c7e44155c3d7eab79d79",
+				"Address" : "BLWXJ8Quc_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ダブルキラー",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "1ecefb230899ccb5b0c261a19ee063b3",
+				"Address" : "VYqy_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "7619d77ffa3fa86edc6f02737351607f",
+				"Address" : "VYqy_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "えび",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "05be441c0473ea9eef24d70a3b812a87",
+				"Address" : "ZddKQh_Main.png"
+			},
+			"Flip" : {
+				"Hash" : "c963ccac8fd171c0c99fe7a7165f3cfb",
+				"Address" : "ZddKQh_Flip.png"
+			},
+			"Climb" : {
+				"Hash" : "dd64be97c36e11bb7e412ef9b0e369e6",
+				"Address" : "ZddKQh_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ECHO",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "3c9d284e90f21b0e15ad7c160e3b2438",
+				"Address" : "vNcfs8soc_Main.png"
+			},
+			"Flip" : {
+				"Hash" : "800ef2b9551b9c9cb70f2d95c4f25f28",
+				"Address" : "vNcfs8soc_Flip.png"
+			},
+			"Climb" : {
+				"Hash" : "b5ed0329c51a28f5f85d7dc1088fe075",
+				"Address" : "vNcfs8soc_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "私は寝ていません",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "44e21bced769dc2c9f5c5e910348bd13",
+				"Address" : "UXqJCLwzb_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "70bf18be0df6b677d63b7b2db3126210",
+				"Address" : "UXqJCLwzb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "火で温まる",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "fddaabf8ffaa6a3b3cef05e3e7e4396a",
+				"Address" : "g1NePOtmc_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "引き寄せ切り",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "753baf17b7d0f7123da6b052165084dd",
+				"Address" : "Bfe818eb_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "cb11413d6c539b2bc33d26aa565e363a",
+				"Address" : "Bfe818eb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "金の亡者",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "9585c172d702e5309e8f7ee19fcb678b",
+				"Address" : "LbwnSHbab_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "9b2243f5dea98ca9e2ce8ced6530a8df",
+				"Address" : "LbwnSHbab_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "コイン運び屋",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "fbd6214f714367c42848627d5de49669",
+				"Address" : "2pI55i_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "銀の盾",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "798f6f42906871cd637bec1cbf769884",
+				"Address" : "iwHy_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "cbb4d254ec3aa5d1a9ef032a3db17064",
+				"Address" : "iwHy_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "バグ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "9930e101e6f1ccb6a74b43b2153ead72",
+				"Address" : "x6vzk2Wkc_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "494b76f485659f06fbc7a3178a4ca4d2",
+				"Address" : "x6vzk2Wkc_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "削除3秒前",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "a6b9bfa0fae9e4a239404767d193bb7b",
+				"Address" : "FdZHgomoc_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ここGuess",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "3d3bc434c25e2a460489185e9ff05461",
+				"Address" : "NESVOsfb_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "銃と何か",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "cbe39b2f47684411f5bf21ef5aae6a3c",
+				"Address" : "8Ta3IUCQ_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "USBハッカー",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "ab632128997b21d712241f07a9eeca66",
+				"Address" : "LqFIeNRnb_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "d0661bc691aab9fc3d875fe7771ec81a",
+				"Address" : "LqFIeNRnb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "サンドイッチ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "d2cc1eb22add32466f5195a393f0134b",
+				"Address" : "Ap21_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "歌え",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "66bbbffb79e9987864c38b8ddf363026",
+				"Address" : "yW2MHyKKb_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "15e5eb1182e11062bff6f4204a5ec7a4",
+				"Address" : "yW2MHyKKb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ハット＆マフラー",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "2b5aa0ef0ea62bb12f3b16ba6ab51ebb",
+				"Address" : "hD85nXNvb_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "b75c55a290998136d5e9a1f37047db9e",
+				"Address" : "hD85nXNvb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ハッターのぼうし",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "ff02a06f3c0fedbdd6f1ba1d6675efcf",
+				"Address" : "Bdi1w5Nvb_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "fb03e680ca5bf44e5e89695e6e5209d6",
+				"Address" : "Bdi1w5Nvb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ハッターシンボル",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "68c0efdd667c1ca15d45a509a3f049f7",
+				"Address" : "c1qjnZPc_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "暑さをしのぐ",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "c3ca2bce72c4f236bc46ec0f78078291",
+				"Address" : "NaCy_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "cd71cacc1ff84ca02b782aa0c208e30a",
+				"Address" : "NaCy_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "イカ",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "ab1c83f85c03a0081d0f40e21a33a179",
+				"Address" : "apaV6c_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "527cb20c34989a02be1b2a11b0fce48f",
+				"Address" : "apaV6c_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "いくら",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "6a28446d96b4d209d7ffad9a4c4d6670",
+				"Address" : "S9FZjOJGb_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "インポスターセット",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "42c850f22a029a5e20ff274ce8fb9ff5",
+				"Address" : "bHn3Ezw_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "9d71bdad2169023cd8e380c6c6ae12d4",
+				"Address" : "bHn3Ezw_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ジェビル",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "7dabbe913ff4451f887d6e81a8c2bc0b",
+				"Address" : "5XTJnkab_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "9a90a1383473b855e1caa250008a0976",
+				"Address" : "5XTJnkab_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "Joker",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "e81e14ecfa3f2534431d67c0a0828a37",
+				"Address" : "wvyUYVljc_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "aab64a13e3269081b27282902473cdc2",
+				"Address" : "wvyUYVljc_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "クルージュース",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "4015350deb269467678746f1ec911f05",
+				"Address" : "gu2PLf_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "226ce533af58debd4799d85fb6a46195",
+				"Address" : "gu2PLf_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "寄生中",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "c83e48866975eb0b442469b671340363",
+				"Address" : "x4l_Main.png"
+			},
+			"Flip" : {
+				"Hash" : "685e900f308df333e6f5582a040272bc",
+				"Address" : "x4l_Flip.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "4号",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "5280b3b6b1aca569a5dadaf58f6529a9",
+				"Address" : "CzWrb_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "黒桜",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "9e255faca309bc86efda3950f2fa8192",
+				"Address" : "pbwO1i_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "79499d230af0a19039c438dfb4ac29ea",
+				"Address" : "pbwO1i_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "配信中",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "a0cf97fe5078c42f511588de8dc79283",
+				"Address" : "25v3j4EC_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "まだですか\?",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "43382244bfa2fa9e9ce484a6efa0589d",
+				"Address" : "v9eM7c_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "6a9a6a8e0ab8d5d164214d954ecd7dc6",
+				"Address" : "v9eM7c_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "まぐろ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "0ae5971cf520f78c2b7b3b46b98b05b9",
+				"Address" : "40YzqKEs_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ミニメイト",
+			"Author" : "",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "8d5309cda30a87870d23e7b7e73f50e5",
+				"Address" : "eYhiRqw_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "どこどん",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "9b2640fb455d18efd47ea1f06653f843",
+				"Address" : "8b9fgp8wb_Main.png"
+			},
+			"Back" : {
+				"Hash" : "619271cf69ada1288ce5e0f18c76552c",
+				"Address" : "8b9fgp8wb_Back.png"
+			},
+			"Climb" : {
+				"Hash" : "05a63ea81ff1e5507719e62e88112d8e",
+				"Address" : "8b9fgp8wb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "みょみょみょみょ～ん",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "41906ffaa999bac6373dffd2c851172c",
+				"Address" : "tSrNlF4Kb_Main.png"
+			},
+			"Back" : {
+				"Hash" : "4109ba784708aa29f94ff846864d9f40",
+				"Address" : "tSrNlF4Kb_Back.png"
+			},
+			"Climb" : {
+				"Hash" : "bc23cbbcd4807ce6d19ed2ec2be77bc9",
+				"Address" : "tSrNlF4Kb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "Mystery",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "912b67dff281288b7f55202447f74d16",
+				"Address" : "3UYbQzMC_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "382a430312d28acd1e25da095e9403cc",
+				"Address" : "3UYbQzMC_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "謎に包まれ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "66aae72f9c5f4c080a7c069cfae410c7",
+				"Address" : "L0AYpnw_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "c79cab0064bee4bd02ac9f25c3f9aa27",
+				"Address" : "L0AYpnw_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "おにぎり",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "2e96d85e35882fb5955db676426a2b1d",
+				"Address" : "WJmFfjCp_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "2566d246b168677b768b5a876cc6b999",
+				"Address" : "WJmFfjCp_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "宇宙人だよ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "62f6615112bebb5f62d2cb4f33b3682b",
+				"Address" : "z5r7CKHB_Main.png"
+			},
+			"Flip" : {
+				"Hash" : "832e1804679ae5df6bfd367fbfc90f69",
+				"Address" : "z5r7CKHB_Flip.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "認証バッジ",
+			"Author" : "",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "eb7ef67933ba974c46be6fa09deeb2ab",
+				"Address" : "RTvaZRuWb_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "4cd3f50ae868470e5285d69b60016e2d",
+				"Address" : "RTvaZRuWb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "軟禁コースター管理者",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "c098f4cc0fd2dfa09d1407da0132dffb",
+				"Address" : "vHCxsaO_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "四角い顔",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "341536cfdca759c4b8a102dbaf8d8474",
+				"Address" : "5oiNJoBac_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "9f441a8b201876ef406f3c5affdd2ab4",
+				"Address" : "5oiNJoBac_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "隊列のリーダー",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "50b09b54af41765f3bffef52621dba28",
+				"Address" : "TFSZOh_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "絵描き",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "9bd6fa65f2077dd5a5ffcf066ef3ebea",
+				"Address" : "34FKbhXr_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "カンニング",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "6b048d199333ab740a1eb1a92b144925",
+				"Address" : "8xvEU8Emb_Main.png"
+			},
+			"Back" : {
+				"Hash" : "403b99496f141c4d4832f827ff9afdaa",
+				"Address" : "8xvEU8Emb_Back.png"
+			},
+			"Climb" : {
+				"Hash" : "ea75d9047a3397f1ecf49524360be77e",
+				"Address" : "8xvEU8Emb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "頭痛の原因",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "2ac4500053d4590e7ccf7499602e7cd1",
+				"Address" : "WGtyMWKbb_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "波動のパワー",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "e62219cc3267eeae94210b2ff5be6ad4",
+				"Address" : "1yxL2E3V_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "d991c28e7bc4802f6b02c7a955e24fd3",
+				"Address" : "1yxL2E3V_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "どんな状況でもプレイ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "cc022ca1b327a335d20577c810ff6fc7",
+				"Address" : "NY4heFw_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "リバース",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "0bd1376507da427be69d989072720bd5",
+				"Address" : "5rzSkfYrb_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "自分へ催眠術",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "3c699fda02a24afb443209db0efb63cb",
+				"Address" : "eGZbAv5r_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "サイリウム",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "5aad6da33d5c4f3073e92798635e8c9f",
+				"Address" : "onaDlzw_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "3b2268d85201167c73e35da467b66cb4",
+				"Address" : "onaDlzw_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "サーモン",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "223343d8bc2684be987b8761f703e6f2",
+				"Address" : "th9Clzw_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "サーベル",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "6fa7c2174086ff4b12fc0d2af971ac5c",
+				"Address" : "P8M5AODlc_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "533d4504993d8db5b628d2b6744bd51a",
+				"Address" : "P8M5AODlc_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "小5\+ロリ=悟り",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "d613ba4206f8f4d3ac36518089c1ddf2",
+				"Address" : "R3hNpGMF_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "0f1aa01debe2b0d10d1d2876546c9dde",
+				"Address" : "R3hNpGMF_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "制御は自分で",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "10f5f1f8fb9242e4b48618ef4fa6e6c0",
+				"Address" : "ZoFc7c_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "4fb02886587d0073e3f00db9162f760d",
+				"Address" : "ZoFc7c_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "しらす",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "37db41716b68678c5203af850964cdfa",
+				"Address" : "5D28oh_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "b6a5fd14466e875d55a070e3b8af3236",
+				"Address" : "5D28oh_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "白黒桜",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "c5710bc86af967e3e82a8e2b972c2924",
+				"Address" : "3cI7_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "e359e5c55111da9edb2771011ecef2a4",
+				"Address" : "3cI7_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "白桜",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "4cd042a535ab3045fd63417a28cb65aa",
+				"Address" : "mmb2Lzw_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "スキップ",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "7ade63abae8eaf406197cccd1bf456c3",
+				"Address" : "rDGW34mr_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "a9de752a53e56906577a44f960696f23",
+				"Address" : "rDGW34mr_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "むりつむり",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "5be359ad9d8ad6c1f66fd94e73ab0c4b",
+				"Address" : "OQw5mj_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "b3d7da28661ee47e1f5cda89635b0fd4",
+				"Address" : "OQw5mj_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "雪堀り",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "c9b2ffe1d64f2dc48b278f7d18a5b053",
+				"Address" : "NQtgQZsP_Main.png"
+			},
+			"Flip" : {
+				"Hash" : "431093f527e1d3c7bb2d44986390b7d1",
+				"Address" : "NQtgQZsP_Flip.png"
+			},
+			"Back" : {
+				"Hash" : "d18f1ee995f6ff46b0af526d654ca8b3",
+				"Address" : "NQtgQZsP_Back.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "スタンド:インポスター",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "f62bfb70b964f23274d63830bef7e426",
+				"Address" : "PHlg5xoMb_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "f36c20c7e8b8face95f743bf8e3e8bc6",
+				"Address" : "PHlg5xoMb_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "スターロッド",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "fe7130fa410b088713d3a02bfaf3d6c6",
+				"Address" : "5DNb5DXx_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "モップ掛けを忘れずに",
+			"Author" : "",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "0c3a59f999f9d437b039e4f77370bbeb",
+				"Address" : "EYJogN0t_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "酸素をとっておこう",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "899d1fe93a427ed06d8b83a40540fafe",
+				"Address" : "z9ctYazw_Main.png"
+			},
+			"Back" : {
+				"Hash" : "a6b2dd009ada06170edbf03bca4f95b0",
+				"Address" : "z9ctYazw_Back.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "観光には水分補給",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "20e4587ffc8405bd88dbc94e40f60757",
+				"Address" : "iZQBXk9w_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "c77f4fbd44a3b4bb99803f0173c706f0",
+				"Address" : "iZQBXk9w_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "でかすぎるバーガー",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "f4d71724befb45556a69245e0f3d150d",
+				"Address" : "zzwQPeov_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "fe58b4ac1ce7b0b33eadf24eb60e4490",
+				"Address" : "zzwQPeov_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "いっぱい飲めるコーラ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "58b86da0e5071227c5987a9ca5458dfb",
+				"Address" : "GfOL93i6b_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "c8ccad3437f2a1f8ad1b7d1cbbe67753",
+				"Address" : "GfOL93i6b_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "多すぎるフライドポテト",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "eb45918ab89dab624d580db2cb5eaf99",
+				"Address" : "Bvhob_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "SUS",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "edd6e005aa438bb7e57dcb4f72714e36",
+				"Address" : "pxxaAzfs_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "6dea37f37006e599f99ece730aa9eb6d",
+				"Address" : "pxxaAzfs_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "チキン1つ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "be6ce3266a54fae892a549e899dcebab",
+				"Address" : "zWXj7c_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "bc22a0a437bb5feac126d78998ea55cf",
+				"Address" : "zWXj7c_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "たまご",
+			"Author" : "",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "5944ff4c8ad0ecea64a9a094646ad003",
+				"Address" : "HUmzRxG_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "7a34ecf0df8ae74d5c0318c66443b8b3",
+				"Address" : "HUmzRxG_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "テルミービート",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "c1ed0ab913eb68fa81fe8682200c3918",
+				"Address" : "8BHW_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "悩み",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "e44732c0e55d35c35254af5e093c2cc4",
+				"Address" : "vV76_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "d8b76904c56615dfe6dadfa8d6bf3e69",
+				"Address" : "vV76_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "画鋲",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "bdeaf532054bb67890e441d651d4d82f",
+				"Address" : "TWvwdGcb_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "豆腐職人",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "6b19a93f999e429c7b18176ad090d5b9",
+				"Address" : "6WpOve1Qb_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "トランスポーター",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "3185277193df65dbc6d130128da9e6fd",
+				"Address" : "Vy7m8c_Main.png"
+			},
+			"Flip" : {
+				"Hash" : "ce4fd740c3ebfefaf599f52e338c0956",
+				"Address" : "Vy7m8c_Flip.png"
+			},
+			"Climb" : {
+				"Hash" : "3185277193df65dbc6d130128da9e6fd",
+				"Address" : "Vy7m8c_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ウボァ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "92d178ef550e64f5a5cb07873e9c7972",
+				"Address" : "JJqy_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "43e4eeec66b4d2e259eb85bf36ef8bb8",
+				"Address" : "JJqy_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "うに",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "94a127f6ba3b577d90310591ea270192",
+				"Address" : "qFDJ5umt_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "仮想空間のウィンドウ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "16c07c84f3fc98e03a3b0ac7bceb8861",
+				"Address" : "2tg59qw_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "fcb15044472acc97377d3d080e7d293c",
+				"Address" : "2tg59qw_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ご安全に",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "4e9c5e806d9b9864ac19e4cb8700a229",
+				"Address" : "JZk_Main.png"
+			},
+			"Flip" : {
+				"Hash" : "377e3c3cb484c47c304a69a247bf3c34",
+				"Address" : "JZk_Flip.png"
+			},
+			"Climb" : {
+				"Hash" : "a9e6e827829d4653d79a8589cb8fa587",
+				"Address" : "JZk_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "YJ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "d032368d1fed8f9ae64a1690371ace6c",
+				"Address" : "FdfBFDw_Main.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ボックス",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "7f9ad9520323b43757f5838f4ee3b9d3",
+				"Address" : "xef7x0dlc_Main.png"
+			},
+			"Flip" : {
+				"Hash" : "2a5e00521d40fcac5c3b7fb3eb2d357f",
+				"Address" : "xef7x0dlc_Flip.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "Error!",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "e56b93bdd083ed18af9b5e2e4d50958a",
+				"Address" : "qttlhXmBb_Main.png"
+			},
+			"Flip" : {
+				"Hash" : "b5fca739f01f530ab5602f7dc6672c09",
+				"Address" : "qttlhXmBb_Flip.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ここにテキストを入力",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "a870e66da3cfc420b714efe523c567fc",
+				"Address" : "I8rwIJa7_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "cf866d7ecc692706ec72c6f5cbe901cc",
+				"Address" : "I8rwIJa7_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "こっちこっち",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "7ba7a299fb3653e9e8ddd5ec97820bf7",
+				"Address" : "WO05IW4l_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "8a5f9327b3235657666e614b6643c000",
+				"Address" : "WO05IW4l_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "自分が消しゴム",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "cd0beec8d9ff93775a0eadd083a98f2d",
+				"Address" : "iaypRkA6b_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "7f8ecb28c75292aedb37a49047a7559e",
+				"Address" : "iaypRkA6b_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ハット作者を頭にのせる",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "b4eca2be20cf11044b4000c2021d04c9",
+				"Address" : "XIHRbuw_Main.png"
+			},
+			"Climb" : {
+				"Hash" : "7b6f6510584a4e208658d446bb34b742",
+				"Address" : "XIHRbuw_Climb.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ょぅじょ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		}
+	],
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "4c60ab09d2ea27904b39d41ab2c925cf",
+				"Address" : "mcLSYnw_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "くらくら",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "ab74c78c666f7245cebb8c9493d3a6ec",
+				"Address" : "6BZXv3C8_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "2進数の動作",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "8109ccf5fe1f3c5f0aa6c7dbdfc1fd2a",
+				"Address" : "xNMOagS_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "応急処置",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "88f8ab9beb01fc91fbdc5adeb1beecc1",
+				"Address" : "9scQqf_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "噛むぞ",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "ad13a80c4ed31db1991a0fac3f183d41",
+				"Address" : "2ofdRj_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "黒目線",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "c3042880c663eae5ec6b870ec10767ee",
+				"Address" : "gKTYJv6f_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "あのサングラス\?",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "4d04284aeb91f0e1634683b3d96df6c0",
+				"Address" : "7rMiLcS_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "最初に必殺技を出せ",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "0cf75c1de797a55a4e3dcc1927be71ef",
+				"Address" : "PnAfpYHDb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "骨が刺さった",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "37cc961503008da7252e797a8c09229b",
+				"Address" : "mDSKzj_Main.png"
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "驚かし",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "9acc9fe03bf4c9325b4663420c2154f5",
+				"Address" : "VVPmlyK_Main.png"
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "休憩時間",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "34f06a7b82697fbc00dc2b80cc9136f5",
+				"Address" : "JH6SzWEec_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "何も考えてない",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "8263e06e159eef837dbc2b0e7f0ae089",
+				"Address" : "7MB7RRte_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "ディールメイカー",
+			"Author" : "",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "9ac69096bca890ab7e1c12b5bdb4470c",
+				"Address" : "MUgccCcK_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "Determination",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "52cc32fc2e98c2826643e4ceb04b6482",
+				"Address" : "lMiToc0ac_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "フラワーグラス",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "3a0414cfcc3facb3f2dbeecfe30d5608",
+				"Address" : "GZVN5nw_Main.png"
+			},
+			"Adaptive" : True,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ぐるぐる",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "b093a18dcf6ca8e8640245f8cced4a7f",
+				"Address" : "geH668dHb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "バレバレな口",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "315c79972adc7431638af459c38cf3c8",
+				"Address" : "2KxCHf_Main.png"
+			},
+			"Adaptive" : True,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "嫌がり",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "8d23730b317d260795e11173ee7b592a",
+				"Address" : "I2CD8c_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ジト目",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "a131625cf01ad284f2494e086407f97e",
+				"Address" : "25JxzMzAb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ピンク玉っぽい悲しい顔",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "e8fb610f2135272369f7acbe36afe1d1",
+				"Address" : "ekYkSrg3b_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ピンク玉っぽい寝顔",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "b9d8b4d612f4273540311150bdcf9904",
+				"Address" : "ULCASrg3b_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ピンク玉っぽい笑顔",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "79fa9ede2f45025251500d1ab4468954",
+				"Address" : "2RYwbJdAb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ピンク玉っぽいウィンク",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "70b2b425d22e6677727521bc7b09126a",
+				"Address" : "IdEt8c_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "キメ顔",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "67723e12d9c1bc7f37a703b705d56253",
+				"Address" : "Yiyt8c_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "キラリ",
+			"Author" : "YJ\*",
+			"Package" : "None"
+		},
+		{
+			"Main" : {
+				"Hash" : "26ba77b72dfdab67c7eb37e75898dafc",
+				"Address" : "6FiNuRnqc_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "口角無限大",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "79e225f2f8670d242e3aba4a956f0ff9",
+				"Address" : "oaoYNg_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "泣き顔",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "60e3256a5060176528ef35cee76dd0c8",
+				"Address" : "cnAHlmBO_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "眠ってしまう",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "1e8c37a32a8c5bf3f53f0eb2f1baa984",
+				"Address" : "MDLcnyXpc_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "NOと言わなければ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "97fe51ca8498956bc609c00d63e1dfd9",
+				"Address" : "OZmAyw6jb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ねこふぇいす",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "65179898cdaa326222cb636a052596a4",
+				"Address" : "QI4S2VCr_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "んにゃあ～",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "8e17d991387399ea56a4d3c00ec3d479",
+				"Address" : "5flGJV25_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "中からこんにちは",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "8f1d16818ff37338522f9676d2c29da1",
+				"Address" : "5CXu7c_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "にゅん",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "b36e0c232e95bdb26d1415a81dede986",
+				"Address" : "drxjTueb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "OKしよう",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "04684ac82fe28b6576f27bfaef44c0f7",
+				"Address" : "6MRgVe_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "一つ目",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "efc0b8c10f60ac8723d6bf416e2211c2",
+				"Address" : "tgThb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "諦め",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "09a03fdb6ae21f0e36923f462ff15a5f",
+				"Address" : "OCHI7c_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ぺろん",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "135129e4e792913a91ca43ba6e1725f0",
+				"Address" : "F9L8LDw_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ポカーン",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "3051db25e3736faab6265bdfd2ae9504",
+				"Address" : "lwkL7c_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "ぽけぇ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "d171f107bfc432a2678857ce87d4763f",
+				"Address" : "DMzgbjZ8_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "これこそ無表情",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "27652fe3a3cde202ed66ebca4d29fb4c",
+				"Address" : "roinb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "R18",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "448e7158dd31ab6807e33eb0b41a74a7",
+				"Address" : "vGIx7c_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "のれん",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "e12a56df8cda62c34bd3edcfb0d473b8",
+				"Address" : "ElloP34_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "範囲選択",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "0917a4417b8bb516b81716092c0d4976",
+				"Address" : "NjjX7c_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "りぼん",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "bd8962ef3ceca3db3684755a1c65a857",
+				"Address" : "ztnRdJim_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "タスクRTA走者",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "44d9c38523e29f3ce16b3019a8c3e7cf",
+				"Address" : "MCAuGE2_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "白桜の花",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "cf499a5843e3f5b48e6391cd85da7d8c",
+				"Address" : "23NzpRhb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "Smile",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "5f0ae4af9e117c16ad56c931a7b9e014",
+				"Address" : "YHfcOXkb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "SstTAarR",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "5856296e62a5dbcd86caa81c0954c60f",
+				"Address" : "nPKZRow_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "しょぼん",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "60d171cc56f90a89cd27c8811c94bb73",
+				"Address" : "7yE9GGobb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "よく見かけそうなもの",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "e941f3d566412f9d5a5a719daac187fe",
+				"Address" : "ifTq0Pby_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "テンションMAX",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "28d2760c467217fca160f221b9dadee9",
+				"Address" : "LxELdSetb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "Triple_Kill_Pink",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "6cfcd36e9be0ae7d3361ca115d8bd02a",
+				"Address" : "uKMRdRetb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "Triple_Kill_Gray",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "7e4cf02a6d0016c569cef4c3a04a63bd",
+				"Address" : "JRmFcx8mb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "Triple_Kill_Maroon",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "2db761b22e04e460ba23d86f3af77ffd",
+				"Address" : "cJRA7vZ6_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "トンデモな予感",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "42abc7fcfd593bd2341fc65cedfe733d",
+				"Address" : "PNb7_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "疑い",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "6ce2d79de33125e86df61e99935b227a",
+				"Address" : "L9Ffb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "虚無",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "351610b9c6c28b52292894a432a2f6b5",
+				"Address" : "ivto9neb_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"FPS" : 1,
+			"Name" : "通信状況",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "8a7e1e2f888e6db760e3f71f36571d09",
+				"Address" : "FXCVExw_Main.png"
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "ウィンク",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "58badb09665b800ce9514f7fc90d1f18",
+				"Address" : "uGTsCf8u_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "MusicTime",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Main" : {
+				"Hash" : "dec3cb77c8cacc02c89d4afce8a62773",
+				"Address" : "DCRvwGus_Main.png"
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"FPS" : 1,
+			"Name" : "ビッグアイ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		}
+	],
+	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "42391438274fb7c26f3fb3f09d0c03cc",
+				"Address" : "CDFHCs0Q_Plate.png"
+			},
+			"Name" : "ファストフード店",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "fb365801095b2e9545104ba7264478f6",
+				"Address" : "L4sUAqoOb_Plate.png"
+			},
+			"Name" : "Hex_World",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "b3cf58a4f25c5394b49aedaa7514391e",
+				"Address" : "JmOa7c_Plate.png"
+			},
+			"Name" : "さぼり",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "b25d4ea71b9fcd62d975fa0ffa9da367",
+				"Address" : "lpwjp8SJ_Plate.png"
+			},
+			"Name" : "なんかの達人っぽいなにか",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "be94ba32ac3e6db9f6ec3d50aca028fd",
+				"Address" : "icatlW8Wb_Plate.png"
+			},
+			"Name" : "SW-Needle",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "730c411987dea9a48fc8f96302451a0d",
+				"Address" : "FiZzY3ILb_Plate.png"
+			},
+			"Name" : "さぁ、バトルだ!",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "f952f64964b49e9095eba4ed2c538db2",
+				"Address" : "R6aqb_Plate.png"
+			},
+			"Name" : "UwU",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "115d2fa53a4d771b9a95eb2db2c56df5",
+				"Address" : "GY12oE1ub_Plate.png"
+			},
+			"Name" : "読めるかな\?",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "3c558ecb5e2578ddd4d3e29b531d8fed",
+				"Address" : "8RsBpuK_Plate.png"
+			},
+			"Name" : "仮想空間",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "323002d32818ad7b81ab5f3b81168bb0",
+				"Address" : "0rhGIWSr_Plate.png"
+			},
+			"Name" : "ウィンドウ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "ec3635d5a01b99ef643cc509abadf8e8",
+				"Address" : "bX4l6ldhb_Plate.png"
+			},
+			"Name" : "キャンプするねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "9539ebf233600e479fd1880df28dea0e",
+				"Address" : "CTIsvfWq_Plate.png"
+			},
+			"Name" : "だぶるねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "9154f87baad315688562099102095c44",
+				"Address" : "2s1ySPs2_Plate.png"
+			},
+			"Name" : "草の中で寝るねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "ac50fc9f93ff9ca3462faa06f9e40a0a",
+				"Address" : "yXDpynlr_Plate.png"
+			},
+			"Name" : "まほうねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "5693ce125769b94e578826510c4c065f",
+				"Address" : "qCjeh098_Plate.png"
+			},
+			"Name" : "機械をいじるねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "9817ff072204efca32591f16edba3a9a",
+				"Address" : "6ngsfJpJb_Plate.png"
+			},
+			"Name" : "ぱすてるねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "2112387221a77c37b26c3ebe33f3a9ab",
+				"Address" : "XvBF8u6jb_Plate.png"
+			},
+			"Name" : "ねことスープ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "7d11d6c66d2c1f0a8d62217f16704ae0",
+				"Address" : "d1dLb_Plate.png"
+			},
+			"Name" : "lwl",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "cef58e7f467f03e11da2183aedc01983",
+				"Address" : "Kod5Row_Plate.png"
+			},
+			"Name" : "しろねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "03b7758818837d7ad7c717982fd524ca",
+				"Address" : "lnQ4oH27_Plate.png"
+			},
+			"Name" : "にぼしとねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "a286e67e3fd1dc110a1607883085342c",
+				"Address" : "mnHODtw_Plate.png"
+			},
+			"Name" : "もちもち",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "e346c774ad2e09e864db48cdfd9af5b6",
+				"Address" : "0Qh46thb_Plate.png"
+			},
+			"Name" : "雪が降る",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "dfc0ad97b0106a4dbad7af019200b1b1",
+				"Address" : "lXhCeZzY_Plate.png"
+			},
+			"Name" : "YJ-R0B0T",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		}
+	],
+	"Packages" : [
+		{
+			"Package" : "YJCos",
+			"Format" : "YJ*Collection",
+			"Priority" : 1
+		}
+	]
+}
