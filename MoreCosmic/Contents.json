@@ -1,241 +1,6 @@
 {
-    "namePlates": [
-		{
-			"Plate" : {
-				"Hash" : "42391438274fb7c26f3fb3f09d0c03cc",
-				"Address" : "CDFHCs0Q_Plate.png"
-			},
-			"Name" : "ファストフード店",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "fb365801095b2e9545104ba7264478f6",
-				"Address" : "L4sUAqoOb_Plate.png"
-			},
-			"Name" : "Hex_World",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "b3cf58a4f25c5394b49aedaa7514391e",
-				"Address" : "JmOa7c_Plate.png"
-			},
-			"Name" : "さぼり",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "b25d4ea71b9fcd62d975fa0ffa9da367",
-				"Address" : "lpwjp8SJ_Plate.png"
-			},
-			"Name" : "なんかの達人っぽいなにか",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "be94ba32ac3e6db9f6ec3d50aca028fd",
-				"Address" : "icatlW8Wb_Plate.png"
-			},
-			"Name" : "SW-Needle",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "730c411987dea9a48fc8f96302451a0d",
-				"Address" : "FiZzY3ILb_Plate.png"
-			},
-			"Name" : "さぁ、バトルだ!",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "f952f64964b49e9095eba4ed2c538db2",
-				"Address" : "R6aqb_Plate.png"
-			},
-			"Name" : "UwU",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "115d2fa53a4d771b9a95eb2db2c56df5",
-				"Address" : "GY12oE1ub_Plate.png"
-			},
-			"Name" : "読めるかな\?",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "3c558ecb5e2578ddd4d3e29b531d8fed",
-				"Address" : "8RsBpuK_Plate.png"
-			},
-			"Name" : "仮想空間",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "323002d32818ad7b81ab5f3b81168bb0",
-				"Address" : "0rhGIWSr_Plate.png"
-			},
-			"Name" : "ウィンドウ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "ec3635d5a01b99ef643cc509abadf8e8",
-				"Address" : "bX4l6ldhb_Plate.png"
-			},
-			"Name" : "キャンプするねこ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "9539ebf233600e479fd1880df28dea0e",
-				"Address" : "CTIsvfWq_Plate.png"
-			},
-			"Name" : "だぶるねこ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "9154f87baad315688562099102095c44",
-				"Address" : "2s1ySPs2_Plate.png"
-			},
-			"Name" : "草の中で寝るねこ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "ac50fc9f93ff9ca3462faa06f9e40a0a",
-				"Address" : "yXDpynlr_Plate.png"
-			},
-			"Name" : "まほうねこ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "5693ce125769b94e578826510c4c065f",
-				"Address" : "qCjeh098_Plate.png"
-			},
-			"Name" : "機械をいじるねこ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "9817ff072204efca32591f16edba3a9a",
-				"Address" : "6ngsfJpJb_Plate.png"
-			},
-			"Name" : "ぱすてるねこ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "2112387221a77c37b26c3ebe33f3a9ab",
-				"Address" : "XvBF8u6jb_Plate.png"
-			},
-			"Name" : "ねことスープ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "7d11d6c66d2c1f0a8d62217f16704ae0",
-				"Address" : "d1dLb_Plate.png"
-			},
-			"Name" : "lwl",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "cef58e7f467f03e11da2183aedc01983",
-				"Address" : "Kod5Row_Plate.png"
-			},
-			"Name" : "しろねこ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "03b7758818837d7ad7c717982fd524ca",
-				"Address" : "lnQ4oH27_Plate.png"
-			},
-			"Name" : "にぼしとねこ",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "a286e67e3fd1dc110a1607883085342c",
-				"Address" : "mnHODtw_Plate.png"
-			},
-			"Name" : "もちもち",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "e346c774ad2e09e864db48cdfd9af5b6",
-				"Address" : "0Qh46thb_Plate.png"
-			},
-			"Name" : "雪が降る",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "dfc0ad97b0106a4dbad7af019200b1b1",
-				"Address" : "lXhCeZzY_Plate.png"
-			},
-			"Name" : "YJ-R0B0T",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "9a700a702bd9e7942f3626a7906bebd9",
-				"Address" : "3r4db_Plate.png"
-			},
-			"Name" : "草。",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "a7a99d57edfa41fb65da9d5c521e2719",
-				"Address" : "I2CD8c_Plate.png"
-			},
-			"Name" : "ジト目",
-			"Author" : "YJ\*",
-			"Package" : "YJCos"
-		},
-		{
-			"Plate" : {
-				"Hash" : "4d79fd9bb4e63c72815c1388b7b2c2c2",
-				"Address" : "232gqJmAb_Plate.png"
-			},
-			"Name" : "ハッターの証",
-			"Author" : "",
-			"Package" : "YJCos"
-		}
-    ],
-    "hats": [
+	"BundleName" : null,
+	"Hats" : [
 		{
 			"Main" : {
 				"Hash" : "1228b56ba6bb8cbe74e77fad3ae96f36",
@@ -2030,8 +1795,8 @@
 			"Author" : "YJ\*",
 			"Package" : "YJCos"
 		}
-    ],
-    "visors": [
+	],
+	"Visors" : [
 		{
 			"Main" : {
 				"Hash" : "4c60ab09d2ea27904b39d41ab2c925cf",
@@ -2752,12 +2517,248 @@
 			"Author" : "YJ\*",
 			"Package" : "YJCos"
 		}
-    ],
-    "packages": [
+	],
+	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "42391438274fb7c26f3fb3f09d0c03cc",
+				"Address" : "CDFHCs0Q_Plate.png"
+			},
+			"Name" : "ファストフード店",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "fb365801095b2e9545104ba7264478f6",
+				"Address" : "L4sUAqoOb_Plate.png"
+			},
+			"Name" : "Hex_World",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "b3cf58a4f25c5394b49aedaa7514391e",
+				"Address" : "JmOa7c_Plate.png"
+			},
+			"Name" : "さぼり",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "b25d4ea71b9fcd62d975fa0ffa9da367",
+				"Address" : "lpwjp8SJ_Plate.png"
+			},
+			"Name" : "なんかの達人っぽいなにか",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "be94ba32ac3e6db9f6ec3d50aca028fd",
+				"Address" : "icatlW8Wb_Plate.png"
+			},
+			"Name" : "SW-Needle",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "730c411987dea9a48fc8f96302451a0d",
+				"Address" : "FiZzY3ILb_Plate.png"
+			},
+			"Name" : "さぁ、バトルだ!",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "f952f64964b49e9095eba4ed2c538db2",
+				"Address" : "R6aqb_Plate.png"
+			},
+			"Name" : "UwU",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "115d2fa53a4d771b9a95eb2db2c56df5",
+				"Address" : "GY12oE1ub_Plate.png"
+			},
+			"Name" : "読めるかな\?",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "3c558ecb5e2578ddd4d3e29b531d8fed",
+				"Address" : "8RsBpuK_Plate.png"
+			},
+			"Name" : "仮想空間",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "323002d32818ad7b81ab5f3b81168bb0",
+				"Address" : "0rhGIWSr_Plate.png"
+			},
+			"Name" : "ウィンドウ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "ec3635d5a01b99ef643cc509abadf8e8",
+				"Address" : "bX4l6ldhb_Plate.png"
+			},
+			"Name" : "キャンプするねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "9539ebf233600e479fd1880df28dea0e",
+				"Address" : "CTIsvfWq_Plate.png"
+			},
+			"Name" : "だぶるねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "9154f87baad315688562099102095c44",
+				"Address" : "2s1ySPs2_Plate.png"
+			},
+			"Name" : "草の中で寝るねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "ac50fc9f93ff9ca3462faa06f9e40a0a",
+				"Address" : "yXDpynlr_Plate.png"
+			},
+			"Name" : "まほうねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "5693ce125769b94e578826510c4c065f",
+				"Address" : "qCjeh098_Plate.png"
+			},
+			"Name" : "機械をいじるねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "9817ff072204efca32591f16edba3a9a",
+				"Address" : "6ngsfJpJb_Plate.png"
+			},
+			"Name" : "ぱすてるねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "2112387221a77c37b26c3ebe33f3a9ab",
+				"Address" : "XvBF8u6jb_Plate.png"
+			},
+			"Name" : "ねことスープ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "7d11d6c66d2c1f0a8d62217f16704ae0",
+				"Address" : "d1dLb_Plate.png"
+			},
+			"Name" : "lwl",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "cef58e7f467f03e11da2183aedc01983",
+				"Address" : "Kod5Row_Plate.png"
+			},
+			"Name" : "しろねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "03b7758818837d7ad7c717982fd524ca",
+				"Address" : "lnQ4oH27_Plate.png"
+			},
+			"Name" : "にぼしとねこ",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "a286e67e3fd1dc110a1607883085342c",
+				"Address" : "mnHODtw_Plate.png"
+			},
+			"Name" : "もちもち",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "e346c774ad2e09e864db48cdfd9af5b6",
+				"Address" : "0Qh46thb_Plate.png"
+			},
+			"Name" : "雪が降る",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "dfc0ad97b0106a4dbad7af019200b1b1",
+				"Address" : "lXhCeZzY_Plate.png"
+			},
+			"Name" : "YJ-R0B0T",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "9a700a702bd9e7942f3626a7906bebd9",
+				"Address" : "3r4db_Plate.png"
+			},
+			"Name" : "草。",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "a7a99d57edfa41fb65da9d5c521e2719",
+				"Address" : "I2CD8c_Plate.png"
+			},
+			"Name" : "ジト目",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "4d79fd9bb4e63c72815c1388b7b2c2c2",
+				"Address" : "232gqJmAb_Plate.png"
+			},
+			"Name" : "ハッターの証",
+			"Author" : "",
+			"Package" : "YJCos"
+		}
+	],
+	"Packages" : [
 		{
 			"Package" : "YJCos",
 			"Format" : "YJ*Collection",
-			"Priority" : 1
+			"Priority" : 7
 		}
-    ]
+	]
 }
