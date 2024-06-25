@@ -2725,13 +2725,40 @@
 			"Name" : "YJ-R0B0T",
 			"Author" : "YJ\*",
 			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "9a700a702bd9e7942f3626a7906bebd9",
+				"Address" : "3r4db_Plate.png"
+			},
+			"Name" : "草。",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "a7a99d57edfa41fb65da9d5c521e2719",
+				"Address" : "I2CD8c_Plate.png"
+			},
+			"Name" : "ジト目",
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
+		},
+		{
+			"Plate" : {
+				"Hash" : "4d79fd9bb4e63c72815c1388b7b2c2c2",
+				"Address" : "232gqJmAb_Plate.png"
+			},
+			"Name" : "ハッターの証",
+			"Author" : "",
+			"Package" : "YJCos"
 		}
 	],
 	"Packages" : [
 		{
 			"Package" : "YJCos",
 			"Format" : "YJ*Collection",
-			"Priority" : 1
+			"Priority" : 7
 		}
 	]
 }
