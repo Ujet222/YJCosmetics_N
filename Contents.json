@@ -2758,7 +2758,7 @@
 		{
 			"Package" : "YJCos",
 			"Format" : "YJ*Collection",
-			"Priority" : 7
+			"Priority" : 1
 		}
 	]
 }
