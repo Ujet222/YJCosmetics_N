@@ -231,7 +231,7 @@
 				"Address" : "232gqJmAb_Plate.png"
 			},
 			"Name" : "ハッターの証",
-			"Author" : "",
+			"Author" : "YJ\*",
 			"Package" : "YJCos"
 		}
     ],
@@ -377,7 +377,7 @@
 			"IsSkinny" : False,
 			"FPS" : 1,
 			"Name" : "ASMR",
-			"Author" : "",
+			"Author" : "YJ\*",
 			"Package" : "YJCos"
 		},
 		{
@@ -1067,8 +1067,8 @@
 			"IsSkinny" : False,
 			"FPS" : 1,
 			"Name" : "ミニメイト",
-			"Author" : "",
-			"Package" : "None"
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
 		},
 		{
 			"Main" : {
@@ -1197,8 +1197,8 @@
 			"IsSkinny" : False,
 			"FPS" : 1,
 			"Name" : "認証バッジ",
-			"Author" : "",
-			"Package" : "None"
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
 		},
 		{
 			"Main" : {
@@ -1597,8 +1597,8 @@
 			"IsSkinny" : False,
 			"FPS" : 1,
 			"Name" : "モップ掛けを忘れずに",
-			"Author" : "",
-			"Package" : "None"
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
 		},
 		{
 			"Main" : {
@@ -1733,7 +1733,7 @@
 			"IsSkinny" : False,
 			"FPS" : 1,
 			"Name" : "たまご",
-			"Author" : "",
+			"Author" : "YJ\*",
 			"Package" : "YJCos"
 		},
 		{
@@ -2173,8 +2173,8 @@
 			"BehindHat" : False,
 			"FPS" : 1,
 			"Name" : "ディールメイカー",
-			"Author" : "",
-			"Package" : "None"
+			"Author" : "YJ\*",
+			"Package" : "YJCos"
 		},
 		{
 			"Main" : {
