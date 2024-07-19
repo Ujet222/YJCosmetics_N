@@ -2078,7 +2078,7 @@
 			"FPS" : 1,
 			"Name" : "噛むぞ",
 			"Author" : "YJ\*",
-			"Package" : "None"
+			"Package" : "YJCos"
 		},
 		{
 			"Main" : {
@@ -2114,7 +2114,7 @@
 			"FPS" : 1,
 			"Name" : "最初に必殺技を出せ",
 			"Author" : "YJ\*",
-			"Package" : "None"
+			"Package" : "YJCos"
 		},
 		{
 			"Main" : {
@@ -2138,7 +2138,7 @@
 			"FPS" : 1,
 			"Name" : "驚かし",
 			"Author" : "YJ\*",
-			"Package" : "None"
+			"Package" : "YJCos"
 		},
 		{
 			"Main" : {
@@ -2318,7 +2318,7 @@
 			"FPS" : 1,
 			"Name" : "キラリ",
 			"Author" : "YJ\*",
-			"Package" : "None"
+			"Package" : "YJCos"
 		},
 		{
 			"Main" : {
